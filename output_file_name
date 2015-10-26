@@ -1,0 +1,4 @@
+('predition_type: ', 'Logistic Regression')
+('classification_report: ', '             precision    recall  f1-score   support\n\n          0       0.94      0.98      0.96      1729\n          1       0.80      0.58      0.67       271\n\navg / total       0.92      0.92      0.92      2000\n')
+('log_loss: ', 0.20444816602846855)
+('roc_auc: ', 0.92811150783572616)
